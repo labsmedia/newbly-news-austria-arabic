@@ -1,14 +1,14 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
-  "targetLanguage" : "arabic",
-  "author" : "laura.schrettl@kurier.at (Laura Schrettl)",
-  "publisher" : "kurier.at",
-  "articleContent" : [ "Die interaktiven Karten zeigen, wie die Situation aktuell in den Bundesländern aussieht, wie viel getestet wird und wie viele Fälle es bisher in den Bezirken gab." ],
   "id" : "BHhV5zOu",
-  "category" : "CHRONICLE",
   "url" : "https://kurier.at/chronik/oesterreich/coronavirus-so-viele-infizierte-gibt-es-in-ihrem-bezirk/400788029",
+  "category" : "CHRONICLE",
+  "publisher" : "kurier.at",
+  "author" : "laura.schrettl@kurier.at (Laura Schrettl)",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "arabic",
+  "articleTitle" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
   "articleTitleTranslated" : "فيروس كورونا: أعداد الإصابات الحالية في النمسا",
+  "articleContent" : [ "Die interaktiven Karten zeigen, wie die Situation aktuell in den Bundesländern aussieht, wie viel getestet wird und wie viele Fälle es bisher in den Bezirken gab." ],
   "articleContentTranslated" : [ "تُظهر الخرائط التفاعلية ما هو الوضع الحالي في الولايات الفيدرالية ، ومقدار الاختبار وعدد الحالات التي تم تسجيلها في المقاطعات حتى الآن." ]
 }
