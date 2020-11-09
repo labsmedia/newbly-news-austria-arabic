@@ -1,13 +1,13 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Van der Bellen hat sich bei Sturz verletzt",
-  "articleContentTranslated" : [ "جرح الرئيس الاتحادي نفسه في سقوط في مورزستيج على حمام السباحة. يجب عليه البقاء في المستشفى لإدارة الألم." ],
-  "targetLanguage" : "arabic",
+  "id" : "FEciykXc",
+  "url" : "https://kurier.at/politik/inland/van-der-bellen-hat-sich-bei-sturz-verletzt/401090274",
+  "category" : "POLITICS",
   "publisher" : "kurier.at",
+  "sourceCountry" : "austria",
+  "sourceLanguage" : "german",
+  "targetLanguage" : "arabic",
+  "articleTitle" : "Van der Bellen hat sich bei Sturz verletzt",
   "articleTitleTranslated" : "أصيب فان دير بيلن في سقوط",
   "articleContent" : [ "Der Bundespräsident hat sich bei einem Sturz in Mürzsteg am Becken verletzt.  Er muss zur Schmerztherapie im Krankenhaus bleiben." ],
-  "id" : "FEciykXc",
-  "category" : "POLITICS",
-  "url" : "https://kurier.at/politik/inland/van-der-bellen-hat-sich-bei-sturz-verletzt/401090274",
-  "sourceLanguage" : "german"
+  "articleContentTranslated" : [ "جرح الرئيس الاتحادي نفسه في سقوط في مورزستيج على حمام السباحة. يجب عليه البقاء في المستشفى لإدارة الألم." ]
 }
