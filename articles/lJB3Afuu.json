@@ -1,13 +1,13 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "U-Ausschuss: Sobotka will in Nationalbibliothek ausweichen",
-  "targetLanguage" : "arabic",
-  "publisher" : "kurier.at",
-  "articleContent" : [ "Nationalratspräsident Wolfgang Sobotka (ÖVP) hat einen weiteren Ort ins Spiel gebracht, an den der Ibiza-Untersuchungsausschuss aufgrund der steigenden Covid-Infektionszahlen ausweichen könnte.", "Es sei daran gedacht, das Camineum der Nationalbibliothek anzumieten, sagte er am Montag laut Parlamentskorrespondenz im Budgetausschuss.  Auch die Sitzungen des EU-Hauptausschusses könnten dorthin verlegt werden.", "Noch nicht genau beantworten lässt sich laut Sobotka die Frage, ob sich die Rückübersiedlung ins historische Parlamentsgebäude durch die Coronapandemie weiter verzögern wird." ],
   "id" : "lJB3Afuu",
-  "category" : "POLITICS",
   "url" : "https://kurier.at/politik/inland/untersuchungsausschuss-sobotka-will-in-die-nationalbibliothek-ausweichen/401091882",
+  "category" : "POLITICS",
+  "publisher" : "kurier.at",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "arabic",
+  "articleTitle" : "U-Ausschuss: Sobotka will in Nationalbibliothek ausweichen",
   "articleTitleTranslated" : "لجنة U: سوبوتكا تريد الذهاب إلى المكتبة الوطنية",
+  "articleContent" : [ "Nationalratspräsident Wolfgang Sobotka (ÖVP) hat einen weiteren Ort ins Spiel gebracht, an den der Ibiza-Untersuchungsausschuss aufgrund der steigenden Covid-Infektionszahlen ausweichen könnte.", "Es sei daran gedacht, das Camineum der Nationalbibliothek anzumieten, sagte er am Montag laut Parlamentskorrespondenz im Budgetausschuss.  Auch die Sitzungen des EU-Hauptausschusses könnten dorthin verlegt werden.", "Noch nicht genau beantworten lässt sich laut Sobotka die Frage, ob sich die Rückübersiedlung ins historische Parlamentsgebäude durch die Coronapandemie weiter verzögern wird.", "Derzeit sei die Rückübersiedelung jedenfalls für 2022 geplant." ],
   "articleContentTranslated" : [ "جلب رئيس المجلس الوطني وولفغانغ سوبوتكا (ÖVP) مكانًا آخر يمكن للجنة التحقيق في إيبيزا الانتقال إليه بسبب العدد المتزايد من إصابات كوفيد.", "قال ، اليوم الاثنين ، إنه يُنظر في إيجار الكامينيوم الخاص بالمكتبة الوطنية ، بحسب مراسلات برلمانية في لجنة الميزانية. يمكن أيضًا نقل اجتماعات اللجنة الرئيسية للاتحاد الأوروبي إلى هناك.", "وفقًا لـ Sobotka ، لا يمكن حتى الآن الإجابة بدقة على مسألة ما إذا كان الانتقال إلى مبنى البرلمان التاريخي سيتأخر أكثر بسبب وباء كورونا." ]
 }
