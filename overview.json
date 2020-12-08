@@ -8,12 +8,6 @@
       "titleTarget" : "\"فكرنا في شيء ما\": يرفض كورتس بفظاظة اقتراح كوجلر",
       "url" : "https://kurier.at/politik/inland/haben-uns-dabei-was-gedacht-kurz-weist-kogler-vorschlag-schroff-zurueck/401121771"
     }, {
-      "id" : "sBzR6jmo",
-      "imgUrl" : "https://image.kurier.at/images/original/4805184/46-173343788.jpg",
-      "titleSource" : "Faßmann: 300 symptomlose Lehrer bei Massentest positiv getestet",
-      "titleTarget" : "فاسمان: اكتشاف 300 معلم بدون أعراض في اختبار جماعي",
-      "url" : "https://kurier.at/politik/inland/fassmann-300-symptomlose-lehrer-bei-massentest-entdeckt/401121594"
-    }, {
       "id" : "CZu1m1fR",
       "imgUrl" : "https://image.kurier.at/images/original/4805964/46-173398143.jpg",
       "titleSource" : "Fast 5.000 bei Testaktion des Innenministeriums - einer davon Ressortchef Nehammer",
@@ -43,21 +37,21 @@
       "titleSource" : "Mobile Antigen-Schnelltests statt zweitem Massentest",
       "titleTarget" : "اختبارات سريعة للمستضد المتنقل بدلاً من اختبار الكتلة الثاني",
       "url" : "https://kurier.at/politik/inland/mobile-antigen-schnelltests-statt-zweitem-massentest/401122413"
+    }, {
+      "id" : "cKroPEyy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5908494/78E4741E-343B-456C-AC6B-FB90989D302E_v0_l.jpg",
+      "titleSource" : "Mehr als acht Jahre werden es nicht für Grasser",
+      "titleTarget" : "لن يمر أكثر من ثماني سنوات لـ Grasser",
+      "url" : "https://www.diepresse.com/5908494/Prozess_Mehr-als-acht-Jahre-werden-es-nicht-fuer-Grasser?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "vL7GMtAr",
-      "imgUrl" : "https://image.kurier.at/images/original/4804620/46-173345314.jpg",
-      "titleSource" : "China erlebt Exportboom: Einzige große Volkswirtschaft, die dieses Jahr wächst",
-      "titleTarget" : "تشهد الصين طفرة في الصادرات: الاقتصاد الرئيسي فقط ينمو هذا العام",
-      "url" : "https://kurier.at/wirtschaft/china-erlebt-exportboom-einzige-grosse-volkswirtschaft-die-dieses-jahr-waechst/401121330"
-    }, {
-      "id" : "I7jGbdNc",
-      "imgUrl" : "https://image.kurier.at/images/original/4805343/46-173386176.jpg",
-      "titleSource" : "Handelsobmann kritisiert Rabattschlacht im Möbelhandel",
-      "titleTarget" : "رئيس التجارة ينتقد معركة الخصم في تجارة الأثاث",
-      "url" : "https://kurier.at/wirtschaft/handelsobmann-kritisiert-rabattschlacht-im-moebelhandel/401121639"
+      "id" : "D7ctZB9e",
+      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
+      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
+      "titleTarget" : "استدعاء المنتج للأرز البني ودقيق القمح من سبار",
+      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
     }, {
       "id" : "PFsVldxk",
       "imgUrl" : "https://image.kurier.at/images/original/4805778/46-173364229.jpg",
@@ -65,11 +59,17 @@
       "titleTarget" : "رفضت المحكمة شكاوى كورونا من الشركات",
       "url" : "https://kurier.at/wirtschaft/gericht-lehnte-corona-beschwerden-von-unternehmen-ab/401121795"
     }, {
-      "id" : "D7ctZB9e",
-      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
-      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
-      "titleTarget" : "استدعاء المنتج للأرز البني ودقيق القمح من سبار",
-      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
+      "id" : "5fwztTto",
+      "imgUrl" : "https://image.kurier.at/images/original/4806849/46-165583331.jpg",
+      "titleSource" : "NoVA-Änderung kostet Unternehmen 1,18 Milliarden Euro",
+      "titleTarget" : "يكلف تغيير NoVA الشركات 1.18 مليار يورو",
+      "url" : "https://kurier.at/wirtschaft/nova-aenderung-waere-milliarden-belastung/401122302"
+    }, {
+      "id" : "xtEZRDYb",
+      "imgUrl" : "https://image.kurier.at/images/original/4806156/46-76007583.jpg",
+      "titleSource" : "Italien belohnt bargeldloses Bezahlen",
+      "titleTarget" : "تكافئ إيطاليا المدفوعات غير النقدية",
+      "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
     }, {
       "id" : "uO4Fi8lJ",
       "imgUrl" : "https://image.kurier.at/images/original/4806648/46-160083078.jpg",
@@ -77,43 +77,26 @@
       "titleTarget" : "أصبح رئيس شركة Siemens Wolfgang Hesoun رئيسًا لمجلس الإشراف على الكازينو",
       "url" : "https://kurier.at/wirtschaft/wolfgang-hesoun-wird-casinos-aufsichtsratschef/401122287"
     }, {
-      "id" : "9IPR2jDg",
-      "imgUrl" : "https://image.kurier.at/images/original/3570982/46-109588180.jpg",
-      "titleSource" : "Der Tee-Moment",
-      "titleTarget" : "لحظة الشاي",
-      "url" : "https://kurier.at/wirtschaft/immobiz/der-tee-moment/401119233"
+      "id" : "CGy3fNnw",
+      "imgUrl" : "https://image.kurier.at/images/original/2731007/20180803-ABD0002-1-1.jpg",
+      "titleSource" : "Mehr als eine Billion Dollar Schaden durch Cyberkriminalität",
+      "titleTarget" : "أكثر من تريليون دولار من الأضرار الناجمة عن جرائم الإنترنت",
+      "url" : "https://kurier.at/wirtschaft/mehr-als-eine-billion-dollar-schaden-durch-cyberkriminalitaet/401122353"
     }, {
-      "id" : "xtEZRDYb",
-      "imgUrl" : "https://image.kurier.at/images/original/4806156/46-76007583.jpg",
-      "titleSource" : "Italien belohnt bargeldloses Bezahlen",
-      "titleTarget" : "تكافئ إيطاليا المدفوعات غير النقدية",
-      "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
+      "id" : "hP1nrdyQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4806447/46-160456462.jpg",
+      "titleSource" : "Europäische Allianz bei Entwicklung von Computerchips",
+      "titleTarget" : "التحالف الأوروبي في تطوير رقائق الكمبيوتر",
+      "url" : "https://kurier.at/wirtschaft/europaeische-allianz-bei-entwicklung-von-computerchips/401122134"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "k9v96Knv",
-      "imgUrl" : "https://image.kurier.at/images/original/4804617/46-173346408.jpg",
-      "titleSource" : "Wie kann man sich beim Weihnachtseinkauf schützen?",
-      "titleTarget" : "كيف يمكنك حماية نفسك عند التسوق لعيد الميلاد؟",
-      "url" : "https://kurier.at/chronik/oesterreich/virologin-redlberger-fritz-abstand-halten-maske-tragen/401121186"
-    }, {
       "id" : "DmQAtKM0",
       "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
       "titleSource" : "Tirol: Jeder dritte Antigen-Test falsch positiv",
       "titleTarget" : "تيرول: كل اختبار مستضد ثالث إيجابي كاذب",
       "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-antigen-test-falsch-positiv/401122323"
-    }, {
-      "id" : "RLkpR7zV",
-      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
-      "titleTarget" : "هؤلاء هم الرياضيون في كارينثيا لهذا العام",
-      "url" : "https://kaernten.orf.at/stories/3079564/"
-    }, {
-      "id" : "ndWF0oAg",
-      "imgUrl" : "https://image.kurier.at/images/original/4804899/46-169347975.jpg",
-      "titleSource" : "Frauenministerin Raab präsentiert Handbuch gegen Gewalt an Frauen",
-      "titleTarget" : "وزيرة شؤون المرأة راب تقدم دليلاً لمناهضة العنف ضد المرأة",
-      "url" : "https://kurier.at/chronik/oesterreich/frauenministerin-raab-praesentiert-handbuch-gegen-gewalt-an-frauen/401121453"
     }, {
       "id" : "tgzdELvt",
       "imgUrl" : "https://image.kurier.at/images/original/4805208/46-173399113.jpg",
@@ -121,17 +104,34 @@
       "titleTarget" : "الجولات السياحية على منحدر مغلق: \"هناك خطر على الحياة\"",
       "url" : "https://kurier.at/chronik/oesterreich/tourengeher-auf-gesperrter-piste-es-besteht-lebensgefahr/401121678"
     }, {
+      "id" : "RLkpR7zV",
+      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
+      "titleTarget" : "هؤلاء هم الرياضيون في كارينثيا لهذا العام",
+      "url" : "https://kaernten.orf.at/stories/3079564/"
+    }, {
       "id" : "azkjNDNJ",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/89/crops/w=1280/772405_opener_268589_veloce1.jpg?s=49f83b9435285ef041b3c6d8876bc326468ce31a",
       "titleSource" : "Veloce-Mitarbeiter vor Betriebsratswahl",
       "titleTarget" : "موظفو Veloce قبل انتخابات مجلس العمل",
       "url" : "https://wien.orf.at/stories/3079545/"
     }, {
-      "id" : "gIgxV08F",
-      "imgUrl" : "https://image.kurier.at/images/original/4804614/illus_corona_fragen.png",
-      "titleSource" : "Lockdown-Ende: Was ab heute wieder geht - und was nicht",
-      "titleTarget" : "انتهاء التأمين: ما الذي يعمل مرة أخرى من اليوم - وما الذي لا يعمل",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-ende-was-ab-heute-wieder-geht-und-was-nicht/401121327"
+      "id" : "qu6UGPQt",
+      "imgUrl" : "https://image.kurier.at/images/original/4806438/46-173404909.jpg",
+      "titleSource" : "Nächstes Tief: Im Süden Österreichs fallen heute wieder 50 bis 100 Zentimeter Schnee",
+      "titleTarget" : "القاع التالي: في جنوب النمسا ، تساقط ثلوج من 50 إلى 100 سم مرة أخرى اليوم",
+      "url" : "https://kurier.at/chronik/oesterreich/naechstes-tief-erneut-fallen-50-bis-100-zentimeter-schnee/401122140"
+    }, {
+      "id" : "YimZwfdd",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/90/crops/w=1280/777030_opener_270290_20201207_105431.jpg?s=0f959423b46431c3890612d3ac5874b572b3fde2",
+      "titleSource" : "Ein Haus für einen Urwald",
+      "titleTarget" : "منزل للغابة",
+      "url" : "https://noe.orf.at/stories/3079528/"
+    }, {
+      "id" : "hrL7EcM7",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/36/crops/w=1280/777034_opener_270336_giftigerzucker_2.jpg?s=bc85f8269cb76ea1a30533a7b2a8d292aa91078a",
+      "titleSource" : "Birkenzucker ist für Hunde hochgiftig",
+      "titleTarget" : "سكر البتولا شديد السمية للكلاب",
+      "url" : "https://salzburg.orf.at/stories/3079558/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -154,17 +154,11 @@
       "titleTarget" : "Filzmaier في ORF-Talk: \"أزمة الثقة بين السياسيين الحكوميين\"",
       "url" : "https://kurier.at/kultur/medien/filzmaier-in-orf-talk-zu-corona-im-zentrum-vertrauenskrise-bei-regierungspolitikern/401122104"
     }, {
-      "id" : "SHSUEnS3",
-      "imgUrl" : "https://image.kurier.at/images/original/4804977/46-173276216.jpg",
-      "titleSource" : "Erste \"Bekenner\" im Hype um mysteriöse Monolithen",
-      "titleTarget" : "أول \"المعترفين\" في الضجيج حول الأحجار المتراصة الغامضة",
-      "url" : "https://kurier.at/kultur/erste-bekenner-im-hype-um-mysterioese-monolithen/401121525"
-    }, {
-      "id" : "zS6FmBF2",
-      "imgUrl" : "https://image.kurier.at/images/original/4801971/46-173342828.jpg",
-      "titleSource" : "Sigur Rós haben Gedicht über Magie der Raben vertont",
-      "titleTarget" : "وضع Sigur Rós قصيدة عن سحر الغربان للموسيقى",
-      "url" : "https://kurier.at/kultur/sigur-ros-haben-gedicht-ueber-magie-der-raben-vertont/401120082"
+      "id" : "5sHQB7za",
+      "imgUrl" : "https://image.kurier.at/images/original/4806540/46-173330814.jpg",
+      "titleSource" : "Adolf Loos im MAK: Radikalo und Rebell – aber zugleich Traditionalist",
+      "titleTarget" : "Adolf Loos من MAK: راديكالي ومتمرد - لكنه تقليدي في نفس الوقت",
+      "url" : "https://kurier.at/kultur/adolf-loos-im-mak-radikalo-und-rebell-aber-zugleich-traditionalist/401122224"
     }, {
       "id" : "4VcNsa6r",
       "imgUrl" : "https://image.kurier.at/images/original/988923/46-42491032.jpg",
@@ -172,11 +166,17 @@
       "titleTarget" : "في نهاية العام ، تعرض Netflix أخبارًا من صانعي \"المرآة السوداء\"",
       "url" : "https://kurier.at/kultur/medien/netflix-zeigt-zum-jahresende-neues-von-den-black-mirror-machern/401122299"
     }, {
-      "id" : "5Yr9uBEy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/2/8/5791784/FILE-PHOTO-Rock-musician-Bob-Dylan-performs-at-the-Wiltern-Theatre-in-Los-Angeles_1585317197369610.jpg",
-      "titleSource" : "Bob Dylan verkauft Rechte an mehr als 600 Songs",
-      "titleTarget" : "يبيع Bob Dylan حقوق أكثر من 600 أغنية",
-      "url" : "https://www.diepresse.com/5908397/Bob-Dylan-verkauft-Rechte-an-mehr-als-600-Songs?from=rss"
+      "id" : "vyo0e8NC",
+      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
+      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Außenseiterin",
+      "titleTarget" : "باتريشيا أوليتزكي: أول ظهور لمسلسل إثارة الأرض لشخص خارجي",
+      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-orf-landkrimi/401122326"
+    }, {
+      "id" : "RHXI595g",
+      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
+      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Unangepasste ",
+      "titleTarget" : "باتريشيا أوليتزكي: أول ظهور لجريمة الدولة لشخص غير ملتزم",
+      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-landkrimi/401122326"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,23 +184,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tIVx8OLX",
-      "imgUrl" : "https://image.kurier.at/images/original/4804929/46-168244474.jpg",
-      "titleSource" : "ÖSV-Boss Schröcksnadel: \"Wir holen unsere Skispringer aus Russland\"",
-      "titleTarget" : "Schröcksnadel رئيس ÖSV: \"نحضر لاعبي التزلج لدينا من روسيا\"",
-      "url" : "https://kurier.at/sport/wintersport/oesv-boss-schroecksnadel-wir-holen-unsere-skispringer-aus-russland/401121483"
-    }, {
-      "id" : "vvoYfiWN",
-      "imgUrl" : "https://image.kurier.at/images/original/4803993/46-173383566.jpg",
-      "titleSource" : "Kühbauer nach dem 3:1: \"Für Kelvin Arase freue ich mich ungemein\"",
-      "titleTarget" : "Kühbauer بعد 3: 1: \"أنا سعيد حقًا من أجل Kelvin Arase\"",
-      "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-nach-dem-31-sieg-in-hartberg-fuer-kelvin-arase-freue-ich-mich-ungemein/401121207"
-    }, {
-      "id" : "oDuECiDJ",
-      "titleSource" : "Neo-Leader LASK bleibt auf dem Boden",
-      "titleTarget" : "يبقى Neo-Leader LASK على الأرض",
-      "url" : "https://sport.orf.at/stories/3070336/"
-    }, {
       "id" : "Tva0tJXi",
       "titleSource" : "ÖFB-Team erwischt lösbare Gruppe",
       "titleTarget" : "ضبط فريق ÖFB مجموعة قابلة للفصل",
@@ -217,10 +200,26 @@
       "titleTarget" : "مباراة النمسا في تصفيات كأس العالم: \"كان يمكن أن تكون أسوأ\"",
       "url" : "https://kurier.at/sport/fussball/wm-qualifikation-oesterreich-trifft-auf-daenemark-schottland-israel-faeroeer-und-moldau/401121831"
     }, {
-      "id" : "OMfxVduM",
-      "titleSource" : "Odermatt legt in Santa Caterina vor",
-      "titleTarget" : "يقدم Odermatt في سانتا كاترينا",
-      "url" : "https://sport.orf.at/stories/3070339/"
+      "id" : "oa2srJ3v",
+      "imgUrl" : "https://image.kurier.at/images/original/4806549/46-173383595.jpg",
+      "titleSource" : "Rapid-Trainer Kühbauer: \"Ich hoffe, das passiert mir nie wieder\"",
+      "titleTarget" : "المدرب السريع كوهباور: \"أتمنى ألا يحدث لي مرة أخرى\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-im-kurier-interview-ich-hoffe-das-passiert-mir-nie-wieder/401122248"
+    }, {
+      "id" : "xRHloYR7",
+      "titleSource" : "Paris 2024 wird wieder schlanker",
+      "titleTarget" : "ستكون باريس 2024 أصغر حجمًا مرة أخرى",
+      "url" : "https://sport.orf.at/stories/3070360/"
+    }, {
+      "id" : "rhgDQy3c",
+      "titleSource" : "Linz-Froschberg im Champions-League-Finale",
+      "titleTarget" : "لينز فروشبرج في نهائي دوري أبطال أوروبا",
+      "url" : "https://sport.orf.at/stories/3070366/"
+    }, {
+      "id" : "J2JKaiLa",
+      "titleSource" : "Wie die USA von Lennons Tod erfuhren",
+      "titleTarget" : "كيف علمت الولايات المتحدة بوفاة لينون",
+      "url" : "https://sport.orf.at/stories/3070212/"
     } ]
   } ],
   "country" : "austria",
