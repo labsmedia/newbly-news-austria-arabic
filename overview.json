@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "oHJtIc1L",
-      "imgUrl" : "https://image.kurier.at/images/original/4917910/46-175458020.jpg",
-      "titleSource" : "Heftiger Schlagabtausch zwischen Nehammer und FPÖ",
-      "titleTarget" : "تبادل عنيف للضربات بين نيهامر و FPÖ",
-      "url" : "https://kurier.at/politik/inland/heftiger-schlagabtausch-zwischen-nehammer-und-fpoe-kein-minister-nur-ministrant/401178664"
+      "id" : "8CkRtr1Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4918456/46-175459764.jpg",
+      "titleSource" : "Nach Abschiebung: Lokalaugenschein zeigt renovierte Schule in Georgien",
+      "titleTarget" : "بعد الترحيل: تفتيش محلي يظهر مدرسة تم تجديدها في جورجيا",
+      "url" : "https://kurier.at/politik/inland/nach-abschiebung-lokalaugenschein-zeigt-renovierte-schule-in-georgien/401178865"
     }, {
       "id" : "vEoFyrcs",
       "imgUrl" : "https://image.kurier.at/images/original/4918570/46-175460758.jpg",
@@ -14,44 +14,50 @@
       "titleTarget" : "الترحيلات: يرى علماء السياسة أن الخضر في موقف خاسر",
       "url" : "https://kurier.at/politik/inland/abschiebungen-politologen-sehen-gruene-auf-verlorenem-posten/401178964"
     }, {
-      "id" : "Q3spGScv",
-      "imgUrl" : "https://image.kurier.at/images/original/4886385/20210121-ABD0039-1-1.jpg",
-      "titleSource" : "Abschiebungen: Kogler setzt Kindeswohlkommission ein",
-      "titleTarget" : "الترحيل: أنشأ كوجلر لجنة رعاية الطفل",
-      "url" : "https://kurier.at/politik/inland/abschiebungen-kogler-setzt-kindeswohlkommission-ein/401178445"
-    }, {
-      "id" : "blYbwwLV",
-      "imgUrl" : "https://image.kurier.at/images/original/4917331/46-175453734.jpg",
-      "titleSource" : "Aktualisierter Impfplan: Eine Million Österreicher bis Anfang April",
-      "titleTarget" : "خطة التطعيم المحدثة: مليون نمساوي بحلول أوائل أبريل",
-      "url" : "https://kurier.at/politik/inland/aktualisierter-impfplan-eine-million-oesterreicher-bis-anfang-april/401178400"
-    }, {
       "id" : "RoksqAR0",
       "imgUrl" : "https://image.kurier.at/images/original/4911667/20210202-ABD0022-1-1.jpg",
       "titleSource" : "Umfrage: Mehrheit mit Abschiebung einverstanden",
       "titleTarget" : "الاستطلاع: الغالبية توافق على الترحيل",
       "url" : "https://kurier.at/politik/inland/umfrage-mehrheit-mit-abschiebung-einverstanden/401178706"
     }, {
-      "id" : "YDABzf4z",
-      "imgUrl" : "https://image.kurier.at/images/original/4019661/46-153980104.jpg",
-      "titleSource" : "Nationalratsdebatte im Zeichen des türkis-grünen Koalitionszwists",
-      "titleTarget" : "مناقشة المجلس الوطني تحت علامة صراع تحالف الفيروز والأخضر",
-      "url" : "https://kurier.at/politik/inland/gruene-wollen-wohl-keinen-koalitionsbruch-riskieren/401178022"
+      "id" : "wIhoKkfj",
+      "imgUrl" : "https://image.kurier.at/images/original/4918879/46-175472918.jpg",
+      "titleSource" : "Apotheken und Betriebe rüsten auf: Test-Angebot wird \"massiv\" ausgebaut",
+      "titleTarget" : "الصيدليات والشركات في طور التطوير: يتم توسيع عروض الاختبار \"بشكل كبير\"",
+      "url" : "https://kurier.at/politik/inland/wirbel-um-zugangstests-schramboeck-und-anschober-beziehen-stellung/401179039"
     }, {
-      "id" : "8CkRtr1Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4918456/46-175459764.jpg",
-      "titleSource" : "Nach Abschiebung: Lokalaugenschein zeigt renovierte Schule in Georgien",
-      "titleTarget" : "بعد الترحيل: تفتيش محلي يظهر مدرسة تم تجديدها في جورجيا",
-      "url" : "https://kurier.at/politik/inland/nach-abschiebung-lokalaugenschein-zeigt-renovierte-schule-in-georgien/401178865"
+      "id" : "dGBZpuhW",
+      "imgUrl" : "https://image.kurier.at/images/original/4757646/20201113-ABD0037-1-1.jpg",
+      "titleSource" : "Schule: Lehrer und Eltern wollen Änderungen bei Testvorgaben",
+      "titleTarget" : "المدرسة: يريد المعلمون وأولياء الأمور إجراء تغييرات على مواصفات الاختبار",
+      "url" : "https://kurier.at/politik/inland/schule-lehrer-und-eltern-wollen-aenderungen-bei-testvorgaben/401179543"
+    }, {
+      "id" : "xuV83RY7",
+      "imgUrl" : "https://image.kurier.at/images/original/3081810/20181122-ABD0022-1-1.jpg",
+      "titleSource" : "Neue Kindeswohlkommission: Innenministerium lässt Kooperation offen",
+      "titleTarget" : "لجنة رعاية الطفل الجديدة: وزارة الداخلية تترك أبواب التعاون مفتوحة",
+      "url" : "https://kurier.at/politik/inland/koglers-kindeswohlkommission-woeginger-findet-sie-in-ordnung/401179120"
+    }, {
+      "id" : "o6WGJ3ks",
+      "imgUrl" : "https://image.kurier.at/images/original/4919413/46-175405342.jpg",
+      "titleSource" : "Corona: Österreich will Portugal zehn Patienten abnehmen",
+      "titleTarget" : "كورونا: النمسا تريد إخراج عشرة مرضى من البرتغال",
+      "url" : "https://kurier.at/politik/inland/corona-oesterreich-will-portugal-zehn-patienten-abnehmen/401179390"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "9GOe9p1f",
-      "imgUrl" : "https://image.kurier.at/images/original/4916947/46-166394402.jpg",
-      "titleSource" : "Ritter-Sport darf neue Schokolade nicht Schokolade nennen",
-      "titleTarget" : "لا تستطيع شركة Ritter-Sport استدعاء شوكولاتة الشوكولاته الجديدة",
-      "url" : "https://kurier.at/wirtschaft/ritter-sport-darf-neue-schokolade-nicht-schokolade-nennen/401178217"
+      "id" : "ymoaKqA6",
+      "imgUrl" : "https://image.kurier.at/images/original/4919557/46-175376309.jpg",
+      "titleSource" : "Drozda steigt aus Politik aus und geht in den Wohnbau",
+      "titleTarget" : "دروزدا يخرج من السياسة ويذهب إلى الإسكان",
+      "url" : "https://kurier.at/wirtschaft/drozda-steigt-aus-politik-aus-und-geht-in-den-wohnbau/401179450"
+    }, {
+      "id" : "LlaP2qtU",
+      "imgUrl" : "https://image.kurier.at/images/original/4919557/46-175376309.jpg",
+      "titleSource" : "Drozda steigt aus Politik aus und geht in den Wohnbau",
+      "titleTarget" : "دروزدا يخرج من السياسة ويذهب إلى الإسكان",
+      "url" : "https://kurier.at/wirtschaft/drozda-steigt-aus-politik-aus-und-geht-in-den-wohnbauj/401179450"
     }, {
       "id" : "yVb6myHm",
       "imgUrl" : "https://image.kurier.at/images/original/4153506/3in1_drucker.jpg",
@@ -59,17 +65,11 @@
       "titleTarget" : "عنق الزجاجة الدراماتيكي للطابعات وأجهزة الكمبيوتر المحمولة",
       "url" : "https://kurier.at/wirtschaft/dramatischer-engpass-bei-druckern-und-notebooks/401178805"
     }, {
-      "id" : "zeKRE2g6",
-      "imgUrl" : "https://image.kurier.at/images/original/3212750/46-143215463.jpg",
-      "titleSource" : "Millionenpleite einer Gashändlers - Sanierung geplant",
-      "titleTarget" : "إفلاس مليون تاجر غاز - مخطط لإعادة الهيكلة",
-      "url" : "https://kurier.at/wirtschaft/millionenpleite-einer-gashaendlers-sanierung-geplant/401178550"
-    }, {
-      "id" : "4y2QrhHU",
-      "imgUrl" : "https://image.kurier.at/images/original/4918684/46-175100574.jpg",
-      "titleSource" : "Sanofi versilbert Jahresbilanz 2020 dank Verkaufs einer Beteiligung",
-      "titleTarget" : "أفضت سانوفي الميزانية العمومية السنوية لعام 2020 بفضل بيع حصة",
-      "url" : "https://kurier.at/wirtschaft/sanofi-versilbert-jahresbilanz-2020-dank-verkaufs-einer-beteiligung/401179054"
+      "id" : "eH1AxIlc",
+      "imgUrl" : "https://image.kurier.at/images/original/4918903/46-175068679.jpg",
+      "titleSource" : "Commerzialbank: Einlagensicherung klagte Republik auf 490 Millionen",
+      "titleTarget" : "Commerzialbank: التأمين على الودائع رفع دعوى ضد الجمهورية مقابل 490 مليون",
+      "url" : "https://kurier.at/wirtschaft/commerzialbank-einlagensicherung-klagte-republik-auf-490-millionen/401179195"
     }, {
       "id" : "gl0bJv95",
       "imgUrl" : "https://image.kurier.at/images/original/2504444/46-103906364-istock-546428038_620x340.jpg",
@@ -77,62 +77,62 @@
       "titleTarget" : "النمساويون مقتصدون في عام كورونا",
       "url" : "https://kurier.at/wirtschaft/oesterreicher-im-coronajahr-sparsam/401178991"
     }, {
+      "id" : "4y2QrhHU",
+      "imgUrl" : "https://image.kurier.at/images/original/4918684/46-175100574.jpg",
+      "titleSource" : "Sanofi versilbert Jahresbilanz 2020 dank Verkaufs einer Beteiligung",
+      "titleTarget" : "أفضت سانوفي الميزانية العمومية السنوية لعام 2020 بفضل بيع حصة",
+      "url" : "https://kurier.at/wirtschaft/sanofi-versilbert-jahresbilanz-2020-dank-verkaufs-einer-beteiligung/401179054"
+    }, {
       "id" : "tfj0HE0h",
       "imgUrl" : "https://image.kurier.at/images/original/4918639/46-175315592.jpg",
       "titleSource" : "Robinhood hebt Handelsbeschränkungen für Aktien auf",
       "titleTarget" : "Robinhood ترفع قيود التداول على الأسهم",
       "url" : "https://kurier.at/wirtschaft/robinhood-hebt-handelsbeschraenkungen-fuer-aktien-auf/401179027"
-    }, {
-      "id" : "KljtIuEY",
-      "imgUrl" : "https://image.kurier.at/images/original/4760067/78452305857511286_BLD_Online.jpg",
-      "titleSource" : "Elon Musk befeuert Rally bei Kryptowährung Dogecoin",
-      "titleTarget" : "يقود Elon Musk ارتفاع عملة Dogecoin المشفرة",
-      "url" : "https://kurier.at/wirtschaft/elon-musk-befeuert-rally-bei-kryptowaehrung-dogecoin/401178769"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "nlCBO5qJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4880229/virus.jpg",
-      "titleSource" : "58 Mutations-Verdachtsfälle in Kärnten",
-      "titleTarget" : "58 طفرات مشتبه بها في كارينثيا",
-      "url" : "https://kurier.at/chronik/oesterreich/58-mutations-verdachtsfaelle-in-kaernten/401178520"
+      "id" : "SX08MmIZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4918888/46-175455335.jpg",
+      "titleSource" : "Salzburger Ärzte wollen sich nicht mit Astra Zeneca impfen lassen",
+      "titleTarget" : "لا يرغب أطباء سالزبورغ في التطعيم بـ Astra Zeneca",
+      "url" : "https://kurier.at/chronik/oesterreich/salzburger-aerzte-wollen-sich-nicht-mit-astra-zeneca-impfen-lassen/401179240"
     }, {
-      "id" : "UIJ0ROQB",
-      "imgUrl" : "https://image.kurier.at/images/original/4917715/46-88404316.jpg",
-      "titleSource" : "Corona-Cluster in Justizanstalt Salzburg: 26 Häftlinge infiziert",
-      "titleTarget" : "تجمع كورونا بسجن سالزبورغ: إصابة 26 سجينا",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-cluster-in-justizanstalt-salzburg-26-haeftlinge-infiziert/401178541"
+      "id" : "ABtHwPm3",
+      "imgUrl" : "https://image.kurier.at/images/original/3372493/78350011447742480_BLD_Online.jpg",
+      "titleSource" : "AK-Chef fordert: Impfstoff nur noch für Tirol, falls es isoliert wird",
+      "titleTarget" : "يطالب رئيس حزب العدالة والتنمية: لقاح تيرول فقط إذا تم عزله",
+      "url" : "https://kurier.at/chronik/oesterreich/zangerl-fordert-impfstoff-nur-noch-fuer-tirol-falls-es-isoliert-wird/401179423"
     }, {
-      "id" : "rS26BBKU",
-      "imgUrl" : "https://image.kurier.at/images/original/4917733/46-172009481.jpg",
-      "titleSource" : "Rund drei Dutzend Verfahren zu illegalen Skiurlauben in Salzburg",
-      "titleTarget" : "حوالي ثلاثين دعوى تتعلق بعطلات التزلج غير القانونية في سالزبورغ",
-      "url" : "https://kurier.at/chronik/oesterreich/rund-drei-dutzend-verfahren-zu-illegalen-skiurlauben-in-salzburg/401178562"
+      "id" : "YIHVUS4g",
+      "imgUrl" : "https://image.kurier.at/images/original/4194269/20200313-ABD0076-1-1.jpg",
+      "titleSource" : "20 Quadratmeter-Regel gilt auch für Supermärkte",
+      "titleTarget" : "تنطبق قاعدة 20 مترًا مربعًا أيضًا على محلات السوبر ماركت",
+      "url" : "https://kurier.at/chronik/oesterreich/20-quadratmeter-regel-gilt-auch-fuer-supermaerkte/401179843"
     }, {
-      "id" : "52zbXOry",
-      "imgUrl" : "https://image.kurier.at/images/original/4702812/78350011457002888_BLD_Online.jpg",
-      "titleSource" : "Corona-Mutationen in Kindergärten in Salzburg noch nicht bestätigt",
-      "titleTarget" : "طفرات كورونا في رياض الأطفال في سالزبورغ لم تتأكد بعد",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-mutationen-in-kindergaerten-in-salzburg-noch-nicht-bestaetigt/401178106"
+      "id" : "zzUpcC5W",
+      "imgUrl" : "https://image.kurier.at/images/original/4919854/46-175099427.jpg",
+      "titleSource" : "Virusmutationen: Bisher 600 Verdachtsfälle in Tirol",
+      "titleTarget" : "الطفرات الفيروسية: حتى الآن 600 حالة مشتبه بها في تيرول",
+      "url" : "https://kurier.at/chronik/oesterreich/virusmutationen-bisher-600-verdachtsfaelle-in-tirol/401179621"
+    }, {
+      "id" : "A4Fgs6q0",
+      "imgUrl" : "https://image.kurier.at/images/original/4920004/46-175254824.jpg",
+      "titleSource" : "Asyl- und Corona-Demos am Wochenende in Österreich",
+      "titleTarget" : "عروض اللجوء وكورونا في عطلة نهاية الأسبوع في النمسا",
+      "url" : "https://kurier.at/chronik/oesterreich/asyl-und-corona-demos-am-wochenende-in-oesterreich/401179672"
+    }, {
+      "id" : "jXTkAVdL",
+      "imgUrl" : "https://image.kurier.at/images/original/4917379/20210204-ABD0074-1-1.jpg",
+      "titleSource" : "Anschober kündigt \"Aktionsplan für Tirol\" an",
+      "titleTarget" : "أنشوبر تعلن عن \"خطة عمل تيرول\"",
+      "url" : "https://kurier.at/chronik/oesterreich/anschober-kuendigt-aktionsplan-fuer-tirol-an/401179405"
     }, {
       "id" : "9CsRLMdg",
       "imgUrl" : "https://image.kurier.at/images/original/4812405/46-168228611.jpg",
       "titleSource" : "Corona-Ampel: Wien auf orange geschaltet",
       "titleTarget" : "إشارة مرور كورونا: تحول لون فيينا إلى اللون البرتقالي",
       "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-wien-auf-orange-geschaltet/401178850"
-    }, {
-      "id" : "uxwtxYou",
-      "imgUrl" : "https://image.kurier.at/images/original/4916887/46-173984607.jpg",
-      "titleSource" : "Deutlich mehr Zweitwohnsitze in steirischen Skigebieten",
-      "titleTarget" : "المزيد من المنازل الثانية بشكل ملحوظ في مناطق تزلج ستيريا",
-      "url" : "https://kurier.at/chronik/oesterreich/deutlich-mehr-zweitwohnsitze-in-steirischen-skigebieten/401178163"
-    }, {
-      "id" : "0ALS0iHA",
-      "imgUrl" : "https://image.kurier.at/images/original/3371029/20190331-ABD0024-1-1.jpg",
-      "titleSource" : "Motorradfahrer in der Oststeiermark bei 206 km/h geblitzt",
-      "titleTarget" : "تومض سائقي الدراجات النارية في شرق ستيريا بسرعة 206 كم / ساعة",
-      "url" : "https://kurier.at/chronik/oesterreich/motorradfahrer-in-der-oststeiermark-bei-206-kmh-geblitzt/401179057"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,11 +143,11 @@
       "titleTarget" : "الزلزال يلتقي بالفن: \"نحن في حالة عصبية شديدة بشكل جماعي\"",
       "url" : "https://kurier.at/kultur/erdbeben-trifft-kunst-wir-sind-kollektiv-sehr-nervoes/401178502"
     }, {
-      "id" : "OKujO3nW",
-      "imgUrl" : "https://image.kurier.at/images/original/4918267/46-175449573.jpg",
-      "titleSource" : "\"Pretend It's A City\" auf Netflix: Durchlüften gegen das Virus der Kleingeistigkeit",
-      "titleTarget" : "\"تظاهر أنها مدينة\" على Netflix: بث ضد فيروس صغر الأفق",
-      "url" : "https://kurier.at/kultur/pretend-its-a-city-auf-netflix-durchlueften-gegen-das-virus-der-kleingeistigkeit/401178781"
+      "id" : "gNq3CpQV",
+      "imgUrl" : "https://image.kurier.at/images/original/4918498/46-143525576.jpg",
+      "titleSource" : "Coming-out im \"SZ Magazin\": Manifest von 185 Schauspielstars",
+      "titleTarget" : "يخرج في \"SZ Magazin\": بيان من 185 ممثلاً",
+      "url" : "https://kurier.at/kultur/coming-out-im-sz-magazin-manifest-von-185-schauspielstars/401178910"
     }, {
       "id" : "hTDMqbPx",
       "imgUrl" : "https://image.kurier.at/images/original/4918117/46-175436657.jpg",
@@ -155,17 +155,11 @@
       "titleTarget" : "Foo Fighters: ألبوم حفلة للذكرى المؤجلة",
       "url" : "https://kurier.at/kultur/foo-fighters-party-album-zum-verschoben-jubilaeum/401178733"
     }, {
-      "id" : "GDHXMBW7",
-      "imgUrl" : "https://image.kurier.at/images/original/4918243/46-143500900.jpg",
-      "titleSource" : "Jungstar Helena Zengel für weiteren Schauspiel-Preis nominiert",
-      "titleTarget" : "رشحت النجمة الشابة هيلينا زنجل لجائزة أخرى عن التمثيل",
-      "url" : "https://kurier.at/kultur/jungstar-helena-zengel-fuer-weiteren-schauspiel-preis-nominiert/401178787"
-    }, {
-      "id" : "sYZ0Zyhy",
-      "imgUrl" : "https://image.kurier.at/images/original/4917721/46-161308913.jpg",
-      "titleSource" : "Lars Eidinger und Moritz Bleibtreu spielen in Serie über Hitler-Tagebücher",
-      "titleTarget" : "يلعب لارس إيدينجر وموريتز بليبترو في سلسلة حول يوميات هتلر",
-      "url" : "https://kurier.at/kultur/medien/lars-eidinger-und-moritz-bleibtreu-spielen-in-serie-ueber-hitler-tagebuecher/401178574"
+      "id" : "8fO9RTJw",
+      "imgUrl" : "https://image.kurier.at/images/original/4918450/46-87801515.jpg",
+      "titleSource" : "Neues von Murakami: Ein Kreis mit vielen Mittelpunkten",
+      "titleTarget" : "أخبار من موراكامي: دائرة بها العديد من المراكز",
+      "url" : "https://kurier.at/kultur/buch/neues-von-murakami-ein-kreis-mit-vielen-mittelpunkten/401178868"
     }, {
       "id" : "jvc8sRgx",
       "imgUrl" : "https://image.kurier.at/images/original/4918732/46-150434468.jpg",
@@ -173,26 +167,44 @@
       "titleTarget" : "\"عندما تبكي الحمائم\": ماتت حمامة الأمير عن عمر يناهز 28 عامًا",
       "url" : "https://kurier.at/kultur/when-doves-cry-die-taube-von-prince-starb-mit-28-jahren/401179102"
     }, {
-      "id" : "gNq3CpQV",
-      "imgUrl" : "https://image.kurier.at/images/original/4918498/46-143525576.jpg",
-      "titleSource" : "Coming-out im \"SZ Magazin\": Manifest von 185 Schauspielstars",
-      "titleTarget" : "يخرج في \"SZ Magazin\": بيان من 185 ممثلاً",
-      "url" : "https://kurier.at/kultur/coming-out-im-sz-magazin-manifest-von-185-schauspielstars/401178910"
+      "id" : "MvUieiHa",
+      "imgUrl" : "https://image.kurier.at/images/original/4920451/46-169049304.jpg",
+      "titleSource" : "Sieben Anwärter auf renommierten Mülheimer Dramatikpreis",
+      "titleTarget" : "سبعة متنافسين على جائزة مولهايم الدرامية الشهيرة",
+      "url" : "https://kurier.at/kultur/sieben-anwaerter-auf-renommierten-muelheimer-dramatikpreis/401179885"
+    }, {
+      "id" : "2k0Y63in",
+      "imgUrl" : "https://image.kurier.at/images/original/4920298/46-165836034.jpg",
+      "titleSource" : "\"Frankfurter Allgemeine Sonntagszeitung\" bald schon am Samstag",
+      "titleTarget" : "\"Frankfurter Allgemeine Sonntagszeitung\" قريباً يوم السبت",
+      "url" : "https://kurier.at/kultur/medien/frankfurter-allgemeine-sonntagszeitung-bald-schon-am-samstag/401179837"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "0xXESoqV",
-      "imgUrl" : "https://image.kurier.at/images/original/4838154/46-173721719.jpg",
-      "titleSource" : "Neue Virusvarianten: Impfungen bleiben weitgehend wirksam",
-      "titleTarget" : "المتغيرات الفيروسية الجديدة: تظل اللقاحات فعالة إلى حد كبير",
-      "url" : "https://kurier.at/wissen/gesundheit/neue-virusvarianten-impfungen-bleiben-weitgehend-wirksam/401177950"
-    }, {
       "id" : "688VqLvC",
       "imgUrl" : "https://image.kurier.at/images/original/4919218/46-175474121.jpg",
       "titleSource" : "Robert-Koch-Institut: \"B.1.1.7 führt auch zu schwereren Krankheitsverläufen\"",
       "titleTarget" : "معهد روبرت كوخ: \"B.1.1.7 يؤدي أيضًا إلى عمليات مرض أكثر شدة\"",
       "url" : "https://kurier.at/wissen/gesundheit/robert-koch-institut-b117-fuehrt-auch-zu-schwereren-krankheitsverlaeufen/401179294"
+    }, {
+      "id" : "beWtudp2",
+      "imgUrl" : "https://image.kurier.at/images/original/4919881/46-175454862.jpg",
+      "titleSource" : "Astra Zeneca wirkt laut neuen Daten auch bei Älteren",
+      "titleTarget" : "وفقًا للبيانات الجديدة ، تعمل Astra Zeneca أيضًا مع كبار السن",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-wirkt-laut-neuen-daten-auch-bei-aelteren/401179615"
+    }, {
+      "id" : "IRXrdM9O",
+      "imgUrl" : "https://image.kurier.at/images/original/4918822/46-175471767.jpg",
+      "titleSource" : "Covid-19-Sterblichkeit: Studie zeigt weiteren Hochrisikofaktor auf",
+      "titleTarget" : "وفيات Covid-19: كشفت الدراسة عن عامل خطر آخر مرتفع",
+      "url" : "https://kurier.at/wissen/gesundheit/stark-gebrechliche-covid-19-patienten-sterben-bis-zu-dreimal-haeufiger/401179075"
+    }, {
+      "id" : "ms7kcfgi",
+      "imgUrl" : "https://image.kurier.at/images/original/4919455/46-175474812.jpg",
+      "titleSource" : "Britische Mutation: Bereits ein Zehntel in italienischem Dorf infiziert",
+      "titleTarget" : "طفرة بريطانية: بالفعل عُشر مصاب في قرية إيطالية",
+      "url" : "https://kurier.at/wissen/gesundheit/britische-mutation-bereits-ein-zehntel-in-italienischem-dorf-infiziert/401179285"
     }, {
       "id" : "1OPotcsf",
       "imgUrl" : "https://image.kurier.at/images/original/4919050/46-173584656.jpg",
@@ -206,38 +218,20 @@
       "titleTarget" : "فيينا: تم اختبار نهج علاجي جديد ضد ارتفاع مستويات الكوليسترول في الدم",
       "url" : "https://kurier.at/wissen/gesundheit/wien-neuer-therapieansatz-gegen-hohe-cholesterinwerte-getestet/401179174"
     }, {
-      "id" : "IRXrdM9O",
-      "imgUrl" : "https://image.kurier.at/images/original/4918822/46-175471767.jpg",
-      "titleSource" : "Covid-19-Sterblichkeit: Studie zeigt weiteren Hochrisikofaktor auf",
-      "titleTarget" : "وفيات Covid-19: كشفت الدراسة عن عامل خطر آخر مرتفع",
-      "url" : "https://kurier.at/wissen/gesundheit/stark-gebrechliche-covid-19-patienten-sterben-bis-zu-dreimal-haeufiger/401179075"
+      "id" : "RjcvtAcE",
+      "imgUrl" : "https://image.kurier.at/images/original/4920040/46-175479170.jpg",
+      "titleSource" : "Wien startet psychiatrische Betreuung von Kindern auch daheim",
+      "titleTarget" : "تبدأ فيينا أيضًا رعاية نفسية للأطفال في المنزل",
+      "url" : "https://kurier.at/wissen/gesundheit/wien-startet-psychiatrische-betreuung-von-kindern-auch-daheim/401179690"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "5VnyxpLI",
-      "imgUrl" : "https://image.kurier.at/images/original/4917556/46-174253833.jpg",
-      "titleSource" : "Vorschrift ist Vorschrift: Der Ski-Weltcup im Corona-Winter",
-      "titleTarget" : "اللائحة هي لائحة: كأس العالم للتزلج في شتاء كورونا",
-      "url" : "https://kurier.at/sport/wintersport/vorschrift-ist-vorschrift-der-ski-weltcup-im-corona-winter/401178475"
-    }, {
-      "id" : "RQpsItYx",
-      "imgUrl" : "https://image.kurier.at/images/original/4918660/46-175465480.jpg",
-      "titleSource" : "Mourinho kritisiert Referee: \"Elfmeter schwer zu akzeptieren\"",
-      "titleTarget" : "مورينيو ينتقد الحكم: \"ضربة جزاء يصعب قبولها\"",
-      "url" : "https://kurier.at/sport/fussball/mourinho-kritisiert-referee-elfmeter-schwer-zu-akzeptieren/401179051"
-    }, {
-      "id" : "4BUo572T",
-      "imgUrl" : "https://image.kurier.at/images/original/4918642/46-173497333.jpg",
-      "titleSource" : "Formel 1: Saisonstart in Bahrain mit zwei Rennen?",
-      "titleTarget" : "الفورمولا 1: بداية الموسم في البحرين بسباقين؟",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-saisonstart-in-bahrain-mit-zwei-rennen/401179033"
-    }, {
-      "id" : "Nz9VPFpc",
-      "imgUrl" : "https://image.kurier.at/images/original/4918627/46-175320011.jpg",
-      "titleSource" : "Australian Open: Dominic Thiem startet gegen Kasachen Kukuschkin",
-      "titleTarget" : "بطولة استراليا المفتوحة: يبدأ دومينيك تيم ضد الكازاخستاني كوكوشكين",
-      "url" : "https://kurier.at/sport/tennis/australian-open-dominic-thiem-startet-gegen-kasachen-kukuschkin/401179015"
+      "id" : "bQHw4eRx",
+      "imgUrl" : "https://image.kurier.at/images/original/4918804/46-174102787.jpg",
+      "titleSource" : "So klingt der neue Song von Ski-Star Manuel Feller",
+      "titleTarget" : "هكذا تبدو الأغنية الجديدة لنجم التزلج مانويل فيلر",
+      "url" : "https://kurier.at/sport/wintersport/so-klingt-der-neue-song-von-ski-star-manuel-feller/401179165"
     }, {
       "id" : "VeCarwrm",
       "imgUrl" : "https://image.kurier.at/images/original/4918558/46-175465125.jpg",
@@ -245,17 +239,35 @@
       "titleTarget" : "التنس: حداد الأسطورة الأمريكية المتوفاة",
       "url" : "https://kurier.at/sport/tennis/tennis-trauer-um-verstorbene-us-legende/401178961"
     }, {
-      "id" : "ZudZhIDS",
-      "imgUrl" : "https://image.kurier.at/images/original/4918291/46-175449287.jpg",
-      "titleSource" : "ÖFB-Cup: Der ewig junge Jantscher gegen den ältesten Klub",
-      "titleTarget" : "كأس ÖFB: يانتشر الشاب الأبدي ضد النادي الأقدم",
-      "url" : "https://kurier.at/sport/oefb-cup-der-ewig-junge-jantscher-gegen-den-aeltesten-klub/401178721"
+      "id" : "B9b4BZ0g",
+      "imgUrl" : "https://image.kurier.at/images/original/4920412/46-175469042.jpg",
+      "titleSource" : "Tennis-Rüpel Kyrgios rastet aus: Schläger aus Stadion geschleudert",
+      "titleTarget" : "فتوة التنس كيرجيوس يفزعها: رمي مضرب من الملعب",
+      "url" : "https://kurier.at/sport/tennis/schlaeger-aus-stadion-geschleudert-tennis-ruepel-nick-kyrgios-rastet-aus/401179864"
     }, {
-      "id" : "dw3Gg7Hr",
-      "imgUrl" : "https://image.kurier.at/images/original/4917703/46-175451691.jpg",
-      "titleSource" : "Die Ski-WM naht: Das Puzzlespiel des ÖSV an der Restplatzbörse",
-      "titleTarget" : "يقترب موعد كأس العالم للتزلج: لعبة ألغاز ÖSV في مساحة التبادل المتبقية",
-      "url" : "https://kurier.at/sport/wintersport/die-ski-wm-naht-das-puzzlespiel-des-oesv-an-der-restplatzboerse/401178556"
+      "id" : "dZ4rsNry",
+      "imgUrl" : "https://image.kurier.at/images/original/4920208/46-175474178.jpg",
+      "titleSource" : "Marita Kramer springt auch in Hinzenbach ins Spitzenfeld",
+      "titleTarget" : "ماريتا كرامر تقفز أيضًا إلى الحقل العلوي في Hinzenbach",
+      "url" : "https://kurier.at/sport/wintersport/marita-kramer-springt-auch-in-hinzenbach-ins-spitzenfeld/401179789"
+    }, {
+      "id" : "AEqiVlK5",
+      "imgUrl" : "https://image.kurier.at/images/original/4849065/46-173834443.jpg",
+      "titleSource" : "Formel 1: Hamilton und Mercedes sollen sich geeinigt haben",
+      "titleTarget" : "الفورمولا 1: يقال إن هاميلتون ومرسيدس قد اتفقا",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-lewis-hamilton-und-mercedes-sollen-sich-geeinigt-haben/401179732"
+    }, {
+      "id" : "JwFxqJrp",
+      "imgUrl" : "https://image.kurier.at/images/original/4920031/46-166956407.jpg",
+      "titleSource" : "Vertrag verlängert: Zinsberger bleibt in London bei Arsenal",
+      "titleTarget" : "تمديد العقد: يبقى Zinsberger مع Arsenal في لندن",
+      "url" : "https://kurier.at/sport/fussball/vertrag-verlaengert-zinsberger-bleibt-in-london-bei-arsenal/401179699"
+    }, {
+      "id" : "lol9EvBC",
+      "imgUrl" : "https://image.kurier.at/images/original/4919665/46-175456509.jpg",
+      "titleSource" : "Matthias Mayer rast in Garmisch auf das Podest",
+      "titleTarget" : "ماتياس ماير يتسابق على منصة التتويج في جارمش",
+      "url" : "https://kurier.at/sport/wintersport/matthias-mayer-rast-in-garmisch-auf-das-podest/401179516"
     } ]
   } ],
   "country" : "austria",
