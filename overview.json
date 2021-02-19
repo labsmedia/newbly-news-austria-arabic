@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "J2foxzn6",
-      "imgUrl" : "https://image.kurier.at/images/original/4947568/46-174102697.jpg",
-      "titleSource" : "Ibiza-Video: Erste Anklage gegen Strache dürfte bevorstehen",
-      "titleTarget" : "فيديو إيبيزا: أول لائحة اتهام ضد ستراش يجب أن تكون وشيكة",
-      "url" : "https://kurier.at/politik/inland/ibiza-video-erste-anklage-gegen-strache-duerfte-bevorstehen/401192806"
-    }, {
       "id" : "yzuEGPGn",
       "imgUrl" : "https://image.kurier.at/images/original/4949470/46-175871404.jpg",
       "titleSource" : "\"Das ist unfassbar\": Opposition und Grüne empört über Wöginger",
       "titleTarget" : "\"هذا أمر لا يصدق\": غضب المعارضة والخضر من قبل Wöginger",
       "url" : "https://kurier.at/politik/inland/das-ist-unfassbar-opposition-und-gruene-empoert-ueber-woeginger/401193616"
+    }, {
+      "id" : "gJpTI9rW",
+      "imgUrl" : "https://image.kurier.at/images/original/4950256/20210219-ABD0024-1-1.jpg",
+      "titleSource" : "Anschober: Strategie für Leben mit Corona in Arbeit",
+      "titleTarget" : "أنشوبر: إستراتيجية التعايش مع كورونا جارية",
+      "url" : "https://kurier.at/politik/inland/ein-jahr-pandemie-anschober-laedt-zu-traurigem-jubilaeum/401193757"
     }, {
       "id" : "UjL5cPHA",
       "imgUrl" : "https://image.kurier.at/images/original/4843911/46-173648849.jpg",
@@ -20,33 +20,39 @@
       "titleTarget" : "كورونا والمسار الحكومي المتعرج",
       "url" : "https://kurier.at/politik/inland/corona-und-der-zick-zack-kurs-der-regierung/401193508"
     }, {
-      "id" : "lgsgxKn6",
-      "imgUrl" : "https://image.kurier.at/images/original/4948387/46-175871591.jpg",
-      "titleSource" : "Wöginger zu Causa Blümel: \"Höhepunkt an Schlampereien der WKStA\"",
-      "titleTarget" : "Wöginger على Causa Blümel: \"تسليط الضوء على إهمال WKStA\"",
-      "url" : "https://kurier.at/politik/inland/woeginger-zu-causa-bluemel-hoehepunkt-an-verfehlungen-und-schlampereien-der-wksta/401193088"
-    }, {
       "id" : "IfcgJSb8",
       "imgUrl" : "https://image.kurier.at/images/original/4944826/20210217-ABD0052-1-1.jpg",
       "titleSource" : "Hausdurchsuchung bei Blümel wegen einer \"Schlamperei\"?",
       "titleTarget" : "تفتيش منزل في بلوميل بسبب \"قذارة\"؟",
       "url" : "https://kurier.at/politik/inland/razzia-wegen-einer-schlamperei/401193394"
     }, {
-      "id" : "hdHl9xlW",
-      "imgUrl" : "https://image.kurier.at/images/original/4918570/46-175460758.jpg",
-      "titleSource" : "Berichtspflicht an Oberstaatsanwaltschaft gelockert",
-      "titleTarget" : "تخفيف الالتزام بإبلاغ النيابة العامة",
-      "url" : "https://kurier.at/politik/inland/berichtspflicht-an-oberstaatsanwaltschaft-gelockert/401192890"
+      "id" : "6M18u4Of",
+      "imgUrl" : "https://image.kurier.at/images/original/4949980/46-174177936.jpg",
+      "titleSource" : "Sobotka machtlos gegenüber Maskenverweigerern im Parlament",
+      "titleTarget" : "سوبوتكا عاجزة أمام رافضي الأقنعة في البرلمان",
+      "url" : "https://kurier.at/politik/inland/sobotka-machtlos-gegenueber-maskenverweigerern-im-parlament/401193877"
     }, {
-      "id" : "9vEREtx7",
-      "imgUrl" : "https://image.kurier.at/images/original/4940455/46-165515046.jpg",
-      "titleSource" : "Neumann: \"Nach der Opernball-Lady jetzt Taschner - wirklich kein Gewinn\"",
-      "titleTarget" : "نيومان: \"بعد سيدة كرة الأوبرا ، الآن تاشنر - لا ربح حقًا\"",
-      "url" : "https://kurier.at/politik/inland/neumann-nach-der-opernball-lady-jetzt-taschner-wirklich-kein-gewinn/401192515"
+      "id" : "ES6uUP1W",
+      "imgUrl" : "https://image.kurier.at/images/original/4952051/46-173496368.jpg",
+      "titleSource" : "Neues Gesetz für Informationsfreiheit: Auch Höchstgericht wird transparenter",
+      "titleTarget" : "قانون جديد لحرية المعلومات: أصبحت أعلى محكمة أكثر شفافية",
+      "url" : "https://kurier.at/politik/inland/informationsfreiheit-regierung-bei-entwurf-einig/401194439"
+    }, {
+      "id" : "JZztBicj",
+      "imgUrl" : "https://image.kurier.at/images/original/4950979/46-175892586.jpg",
+      "titleSource" : "Emotionaler Auftritt: Ex-ZiB-Star leidet an Corona-Spätfolgen",
+      "titleTarget" : "المظهر العاطفي: يعاني نجم Ex-ZiB من عواقب كورونا طويلة المدى",
+      "url" : "https://kurier.at/politik/inland/emotionaler-auftritt-ex-zib-star-leidet-an-corona-spaetfolgen/401194141"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "ICqDPWSq",
+      "imgUrl" : "https://image.kurier.at/images/original/4910902/20210201-ABD0059-1-1.jpg",
+      "titleSource" : "Kurz stellt Öffnung der Gastronomie mit Eintrittstests in Aussicht",
+      "titleTarget" : "يحمل كورتز فكرة الانفتاح على فن الطهو من خلال اختبارات الدخول",
+      "url" : "https://kurier.at/wirtschaft/bundeskanzler-kurz-zur-situation-der-gastronomie/401193985"
+    }, {
       "id" : "n5vvLviD",
       "imgUrl" : "https://image.kurier.at/images/original/4948933/46-175863321.jpg",
       "titleSource" : "Gastro pocht auf Öffnung vor Ostern: Heute Gipfel im Bundeskanzleramt",
@@ -59,50 +65,50 @@
       "titleTarget" : "أرادت شركة Biontech سعر جرعة \"مشكوك فيه\"",
       "url" : "https://kurier.at/wirtschaft/biontech-wollte-unserioesen-preis-fuer-eine-dosis/401193619"
     }, {
-      "id" : "JfM2LzMq",
-      "imgUrl" : "https://image.kurier.at/images/original/1122057/Krankenversicherung-000_Deutsch%252BGerhard.jpg",
-      "titleSource" : "Krankenversicherungen erwarten 339 Millionen Euro Verlust",
-      "titleTarget" : "تتوقع شركات التأمين الصحي خسارة 339 مليون يورو",
-      "url" : "https://kurier.at/wirtschaft/krankenversicherungen-erwarten-339-millionen-euro-verlust/401192926"
-    }, {
       "id" : "GElxcwdT",
       "imgUrl" : "https://image.kurier.at/images/original/4949353/46-168357050.jpg",
       "titleSource" : "Salzburger Seilbahner rechnen mit 90 Prozent Ausfall",
       "titleTarget" : "يتوقع مستخدمو التلفريك في سالزبورغ فشل 90 بالمائة",
       "url" : "https://kurier.at/wirtschaft/salzburger-seilbahner-rechnen-mit-90-prozent-ausfall/401193544"
     }, {
-      "id" : "suDPsKEm",
-      "imgUrl" : "https://image.kurier.at/images/original/4948594/46-175537145.jpg",
-      "titleSource" : "Wohntelefon: Darf der Sohn des Hausbesorgers dort wohnen?",
-      "titleTarget" : "الهاتف: هل يمكن أن يعيش هناك ابن القائم بالرعاية؟",
-      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-darf-der-sohn-des-hausbesorgers-dort-wohnen/401193268"
+      "id" : "UWsYdd1N",
+      "imgUrl" : "https://image.kurier.at/images/original/4846101/20201229-ABD0065-1-1.jpg",
+      "titleSource" : "Kein Skigebiet \"auch nur annähernd\" kostendeckend",
+      "titleTarget" : "لا توجد منطقة تزلج تغطي التكاليف \"حتى عن بعد\"",
+      "url" : "https://kurier.at/wirtschaft/kein-skigebiet-auch-nur-annaehernd-kostendeckend/401194015"
     }, {
-      "id" : "9p8Ddtav",
-      "imgUrl" : "https://image.kurier.at/images/original/4949578/46-175864987.jpg",
-      "titleSource" : "Renault fuhr 2020 Rekordverlust von acht Milliarden Euro ein",
-      "titleTarget" : "سجلت رينو خسارة قياسية بلغت ثمانية مليارات يورو في عام 2020",
-      "url" : "https://kurier.at/wirtschaft/renault-fuhr-2020-rekordverlust-von-acht-milliarden-euro-ein/401193679"
+      "id" : "2qWHh7My",
+      "imgUrl" : "https://image.kurier.at/images/original/4951616/46-168320899.jpg",
+      "titleSource" : "Fertinger-Gruppe übernimmt NÖ Kühlkondensatorspezialisten",
+      "titleTarget" : "تتولى Fertinger Group مسئولي مكثفات التبريد من النمسا السفلى",
+      "url" : "https://kurier.at/wirtschaft/fertinger-gruppe-uebernimmt-noe-kuehlkondensatorspezialisten/401194376"
     }, {
-      "id" : "6NYANV2T",
-      "imgUrl" : "https://image.kurier.at/images/original/4949401/46-168932641.jpg",
-      "titleSource" : "Rosenbauer mit Umsatz- und Gewinnrekord im Vorjahr",
-      "titleTarget" : "Rosenbauer مع سجلات المبيعات والأرباح في العام السابق",
-      "url" : "https://kurier.at/wirtschaft/rosenbauer-mit-umsatz-und-gewinnrekord-im-vorjahr/401193598"
+      "id" : "8Lapxg6D",
+      "imgUrl" : "https://image.kurier.at/images/original/4951967/46-175537907.jpg",
+      "titleSource" : "Keine Insolvenzwelle im Handel erwartet",
+      "titleTarget" : "لا توجد موجة من حالات الإفلاس المتوقعة في تجارة التجزئة",
+      "url" : "https://kurier.at/wirtschaft/keine-insolvenzwelle-im-handel-erwartet/401194514"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "bbEJbo83",
-      "imgUrl" : "https://image.kurier.at/images/original/4947127/46-175814820.jpg",
-      "titleSource" : "Corona-Impfung: Ärger bei Hochrisikogruppe in Wien",
-      "titleTarget" : "التطعيم ضد كورونا: مشكلة مع مجموعة عالية الخطورة في فيينا",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-impfung-aerger-bei-hochrisikogruppe-in-wien/401192590"
+      "id" : "GGAoRLRZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.818 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1818 إصابة جديدة بكورونا في النمسا",
+      "url" : "https://kurier.at/chronik/oesterreich/1818-neue-corona-infektionen-in-oesterreich/401193742"
     }, {
-      "id" : "UGvoN1r9",
-      "imgUrl" : "https://image.kurier.at/images/original/4949773/46-168964249.jpg",
-      "titleSource" : "1.818 Neuinfektionen in Ö + Biontech wollte \"unseriösen\" Preis für eine Dosis",
-      "titleTarget" : "1،818 إصابة جديدة في Ö + Biontech أرادت سعر جرعة \"مشكوك فيه\"",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-in-wien-wieder-auf-rot-geschaltet/401193493"
+      "id" : "8KwClEda",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Kärntner Polizistin soll negative Corona-Tests angeboten haben",
+      "titleTarget" : "يقال إن ضابط شرطة كارينثيا قد عرض اختبارات كورونا سلبية",
+      "url" : "https://kurier.at/chronik/oesterreich/kaerntner-polizistin-soll-negative-corona-tests-angeboten-haben/401193847"
+    }, {
+      "id" : "ryx1UCIr",
+      "imgUrl" : "https://image.kurier.at/images/original/4924702/20210208-ABD0026-1-1.jpg",
+      "titleSource" : "Elf-Punkte-Plan soll Covid-Ausbreitung in Hermagor stoppen",
+      "titleTarget" : "خطة من إحدى عشرة نقطة لوقف انتشار كوفيد في هيرماغور",
+      "url" : "https://kurier.at/chronik/oesterreich/elf-punkte-plan-soll-covid-ausbreitung-in-hermagor-stoppen/401193706"
     }, {
       "id" : "FV2bpeUk",
       "imgUrl" : "https://image.kurier.at/images/original/4949551/46-175641618.jpg",
@@ -110,29 +116,23 @@
       "titleTarget" : "النمسا \"استخفت تماما\" كورونا",
       "url" : "https://kurier.at/chronik/oesterreich/oesterreich-hat-corona-voellig-unterschaetzt/401193670"
     }, {
-      "id" : "szEQrhGH",
-      "imgUrl" : "https://image.kurier.at/images/original/4363100/5602199.jpg",
-      "titleSource" : "Warmes Wetter bringt Frühlingsgefühle",
-      "titleTarget" : "الطقس الحار يجلب حمى الربيع",
-      "url" : "https://kurier.at/chronik/oesterreich/warmes-wetter-bringt-fruehlingsgefuehle/401192857"
+      "id" : "UGvoN1r9",
+      "imgUrl" : "https://image.kurier.at/images/original/4934206/20210212-ABD0037-1-1.jpg",
+      "titleSource" : "Tirol-Ausreise nur mit negativem Test + Biontech-Impfung wirkt nach erstem Stich",
+      "titleTarget" : "1،818 إصابة جديدة في Ö + Biontech أرادت سعر جرعة \"مشكوك فيه\"",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-in-wien-wieder-auf-rot-geschaltet/401193493"
     }, {
-      "id" : "UvNGq5Wt",
-      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
-      "titleSource" : "Zwei Täter nach Überfall auf Grazer Taxler mit Schusswaffen entkommen",
-      "titleTarget" : "هرب اثنان من الجناة بالأسلحة النارية بعد مهاجمة سائقي سيارات الأجرة في غراتس",
-      "url" : "https://kurier.at/chronik/oesterreich/zwei-taeter-nach-ueberfall-auf-grazer-taxler-mit-schusswaffen-entkommen/401193547"
+      "id" : "4rqp71fk",
+      "imgUrl" : "https://image.kurier.at/images/original/4951862/46-175536595.jpg",
+      "titleSource" : "Aus Tirol geht es weiter nur mit negativem Coronatest raus",
+      "titleTarget" : "من تيرول يخرج فقط باختبار كورونا سلبي",
+      "url" : "https://kurier.at/chronik/oesterreich/aus-tirol-geht-es-weiter-nur-mit-negativem-coronatest-raus/401194472"
     }, {
-      "id" : "tAV9wghs",
-      "imgUrl" : "https://image.kurier.at/images/original/2384364/20171221-ABD0060-1-1.jpg",
-      "titleSource" : "Am Sonntag wartet ein 6,6 Millionen Euro Jackpot",
-      "titleTarget" : "الفوز بالجائزة الكبرى 6.6 مليون يورو ينتظر يوم الأحد",
-      "url" : "https://kurier.at/chronik/oesterreich/am-sonntag-wartet-ein-66-millionen-euro-jackpot/401193085"
-    }, {
-      "id" : "73rf1FVZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4947373/46-168626772.jpg",
-      "titleSource" : "Teils langjährige Haftstrafen bei Monster-Drogenprozess in Klagenfurt",
-      "titleTarget" : "أحيانًا أحكام طويلة بالسجن في محاكمة مخدرات الوحش في كلاغنفورت",
-      "url" : "https://kurier.at/chronik/oesterreich/teils-langjaehrige-haftstrafen-bei-monster-drogenprozess-in-klagenfurt/401192704"
+      "id" : "kIffmuRl",
+      "imgUrl" : "https://image.kurier.at/images/original/4827975/78350011458024730_BLD_Online.jpg",
+      "titleSource" : "Paar soll Frau zu Prostitution gezwungen haben: Vier Jahre Haft",
+      "titleTarget" : "يقال إن الزوجين أرغما النساء على الدعارة: أربع سنوات في السجن",
+      "url" : "https://kurier.at/chronik/oesterreich/paar-soll-frau-zu-prostitution-gezwungen-haben-vier-jahre-haft/401194168"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,77 +149,94 @@
       "titleTarget" : "وجدت طاش سلطانة سعادتها في الحبس",
       "url" : "https://kurier.at/kultur/tash-sultana-hat-im-lockdown-ihr-glueck-gefunden/401193325"
     }, {
-      "id" : "tiGOcOWb",
-      "imgUrl" : "https://image.kurier.at/images/original/4949986/46-175868488.jpg",
-      "titleSource" : "Australien hält trotz Facebook-Blockade an Mediengesetz fest",
-      "titleTarget" : "تلتزم أستراليا بقانون الإعلام على الرغم من حظر فيسبوك",
-      "url" : "https://kurier.at/kultur/medien/australien-haelt-trotz-facebook-blockade-an-mediengesetz-fest/401193871"
+      "id" : "lCKWpMYZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4949566/46-174004155.jpg",
+      "titleSource" : "Nobelpreisträger Modiano: Detektiv für die Lücken im Gedächtnis",
+      "titleTarget" : "موديانو الحائز على جائزة نوبل: محقق للفجوات في الذاكرة",
+      "url" : "https://kurier.at/kultur/buch/nobelpreistraeger-modiano-detektiv-fuer-die-luecken-im-gedaechtnis/401193661"
     }, {
-      "id" : "JUM4x7Jg",
-      "imgUrl" : "https://image.kurier.at/images/original/4948795/46-131664911.jpg",
-      "titleSource" : "KommAustria: Fellner-Sendung auf oe24.tv reizte zu Hass auf",
-      "titleTarget" : "كوم النمسا: بث فيلنر على oe24.tv يحرض على الكراهية",
-      "url" : "https://kurier.at/kultur/medien/kommaustria-fellner-sendung-auf-oe24tv-reizte-zu-hass-auf/401193361"
+      "id" : "cG6ZvTHt",
+      "imgUrl" : "https://image.kurier.at/images/original/4948261/20210218-ABD0173-1-1.jpg",
+      "titleSource" : "Renaissance der Parteimedien: Der ÖVP-Klub startet einen Blog",
+      "titleTarget" : "نهضة الإعلام الحزبي: يبدأ نادي ÖVP مدونة",
+      "url" : "https://kurier.at/kultur/medien/renaissance-der-parteimedien-der-oevp-klub-startet-einen-blog/401194364"
+    }, {
+      "id" : "2oSUzxFH",
+      "imgUrl" : "https://image.kurier.at/images/original/4951139/46-84933004.jpg",
+      "titleSource" : "Neuauflage von \"Sex and the City\" ohne Mr. Big",
+      "titleTarget" : "طبعة جديدة من \"الجنس والمدينة\" بدون مستر بيج",
+      "url" : "https://kurier.at/kultur/medien/neuauflage-von-sex-and-the-city-ohne-mr-big/401194241"
+    }, {
+      "id" : "0FNAcO1x",
+      "titleSource" : "Gruppe netzzeit: \"Haben nicht mehr um Förderung angesucht\"",
+      "titleTarget" : "مجموعة Netzzeit: \"لم يعد التقدم بطلب للحصول على تمويل\"",
+      "url" : "https://kurier.at/kultur/gruppe-netzzeit-haben-nicht-mehr-um-foerderung-angesucht/401193997"
+    }, {
+      "id" : "vkzjXPQE",
+      "imgUrl" : "https://image.kurier.at/images/original/4950160/46-90935989.jpg",
+      "titleSource" : "Kultur-Lockdown: Kremser donaufestival auf Oktober verschoben",
+      "titleTarget" : "إغلاق ثقافي: تم تأجيل مهرجان Kremser donauf Festival إلى أكتوبر",
+      "url" : "https://kurier.at/kultur/kultur-lockdown-kremser-donaufestival-auf-oktober-verschoben/401193955"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "KoC1Wbcd",
-      "imgUrl" : "https://image.kurier.at/images/original/4897426/46-174658412.jpg",
-      "titleSource" : "Völlig neue Virusmutation in Finnland entdeckt",
-      "titleTarget" : "اكتشاف طفرة فيروس جديدة تمامًا في فنلندا",
-      "url" : "https://kurier.at/wissen/gesundheit/voellig-neue-virusmutation-in-finnland-entdeckt/401192737"
-    }, {
-      "id" : "0ifvJXfw",
-      "imgUrl" : "https://image.kurier.at/images/original/4947289/46-175783615.jpg",
-      "titleSource" : "Corona: Wissenschafter drängen auf Verschiebung der zweiten Impfdosis",
-      "titleTarget" : "كورونا: العلماء يضغطون من أجل تأجيل جرعة التطعيم الثانية",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-wissenschafter-draengen-auf-verschiebung-der-zweiten-impfdosis/401192635"
-    }, {
-      "id" : "W8BtIPgJ",
-      "imgUrl" : "https://image.kurier.at/images/original/2605330/46-84125270.jpg",
-      "titleSource" : "Menschen mit schweren psychischen Erkrankungen rasch impfen",
-      "titleTarget" : "تطعيم الأشخاص المصابين بأمراض عقلية شديدة بسرعة",
-      "url" : "https://kurier.at/wissen/gesundheit/menschen-mit-schweren-psychischen-erkrankungen-rasch-impfen/401192677"
-    }, {
       "id" : "gQWvUujH",
       "imgUrl" : "https://image.kurier.at/images/original/4948930/46-173648489.jpg",
       "titleSource" : "Coronavirus: Bisher gingen mehr als 20 Millionen Lebensjahre verloren",
       "titleTarget" : "فيروس كورونا: حتى الآن ، فقدت أكثر من 20 مليون سنة من العمر",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-bisher-gingen-mehr-als-20-millionen-lebensjahre-verloren/401193400"
     }, {
-      "id" : "u18n82bS",
-      "imgUrl" : "https://image.kurier.at/images/original/3318556/46-144260058.jpg",
-      "titleSource" : "Keine Angst vor Corona: Bei Herzproblemen sofort ins Spital",
-      "titleTarget" : "لا تخف من كورونا: إذا كنت تعاني من مشاكل في القلب ، اذهب إلى المستشفى على الفور",
-      "url" : "https://kurier.at/wissen/gesundheit/keine-angst-vor-corona-bei-herzproblemen-sofort-ins-spital/401193634"
-    }, {
-      "id" : "ZFta65Wj",
-      "imgUrl" : "https://image.kurier.at/images/original/4948078/46-175707711.jpg",
-      "titleSource" : "Gesundheitsexperten warnen vor weiterer Ebola-Ausbreitung in Afrika",
-      "titleTarget" : "يحذر خبراء الصحة من انتشار فيروس إيبولا في إفريقيا",
-      "url" : "https://kurier.at/wissen/gesundheit/gesundheitsexperten-warnen-vor-weiterer-ebola-ausbreitung-in-afrika/401193097"
+      "id" : "JQMO82eU",
+      "imgUrl" : "https://image.kurier.at/images/original/4951034/46-175885915.jpg",
+      "titleSource" : "Biontech-Impfung schon nach erster Dosis hoch wirksam",
+      "titleTarget" : "تطعيم Biontech عالي الفعالية بعد الجرعة الأولى",
+      "url" : "https://kurier.at/wissen/gesundheit/biontech-impfung-schon-nach-erster-dosis-hoch-wirksam/401194190"
     }, {
       "id" : "IgzkZeyD",
       "imgUrl" : "https://image.kurier.at/images/original/3849134/46-150006778.jpg",
       "titleSource" : "Biontech-Impfstoff wird jetzt an Schwangeren getestet",
       "titleTarget" : "يتم الآن اختبار لقاح Biontech على النساء الحوامل",
       "url" : "https://kurier.at/wissen/gesundheit/biontech-impfstoff-wird-jetzt-an-schwangeren-getestet/401193748"
+    }, {
+      "id" : "8WOkJ6r6",
+      "imgUrl" : "https://image.kurier.at/images/original/4950769/46-174345664.jpg",
+      "titleSource" : "Deshalb könnte die \"britische Variante\" ansteckender sein",
+      "titleTarget" : "لذلك ، يمكن أن يكون \"البديل البريطاني\" أكثر عدوى",
+      "url" : "https://kurier.at/wissen/gesundheit/deshalb-koennte-die-britische-variante-ansteckender-sein/401193781"
+    }, {
+      "id" : "TJE2x7B5",
+      "imgUrl" : "https://image.kurier.at/images/original/4951199/46-175714600.jpg",
+      "titleSource" : "Biontech-Impfstoff braucht es doch nicht so kalt",
+      "titleTarget" : "لا يحتاج لقاح Biontech إلى البرودة الشديدة",
+      "url" : "https://kurier.at/wissen/gesundheit/biontech-impfstoff-braucht-es-doch-nicht-so-kalt/401194247"
+    }, {
+      "id" : "u18n82bS",
+      "imgUrl" : "https://image.kurier.at/images/original/3318556/46-144260058.jpg",
+      "titleSource" : "Keine Angst vor Corona: Bei Herzproblemen sofort ins Spital",
+      "titleTarget" : "لا تخف من كورونا: إذا كنت تعاني من مشاكل في القلب ، اذهب إلى المستشفى على الفور",
+      "url" : "https://kurier.at/wissen/gesundheit/keine-angst-vor-corona-bei-herzproblemen-sofort-ins-spital/401193634"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "I5usJqiv",
-      "imgUrl" : "https://image.kurier.at/images/original/4948813/46-149521405.jpg",
-      "titleSource" : "Nach Dopingvergehen: Drei Monate Sperre für Salzburger Duo",
-      "titleTarget" : "بعد جريمة تعاطي المنشطات: ثلاثة أشهر إيقاف لثنائي سالزبورغ",
-      "url" : "https://kurier.at/sport/fussball/nach-dopingvergehen-uefa-sperrt-salzburger-duo-camara-und-koita-fuer-drei-monate/401193379"
+      "id" : "t4UMQluz",
+      "imgUrl" : "https://image.kurier.at/images/original/4950943/46-174242950.jpg",
+      "titleSource" : "Kühbauer: \"So gut wie Villarreal können wir es mit Rapid nicht\"",
+      "titleTarget" : "كوهباور: \"لا يمكننا فعل ذلك مع Rapid وكذلك مع Villarreal\"",
+      "url" : "https://kurier.at/sport/fussball/kuehbauer-so-gut-wie-villarreal-koennen-wir-es-mit-rapid-nicht/401194147"
     }, {
-      "id" : "XhJPqeF6",
-      "imgUrl" : "https://image.kurier.at/images/original/4947922/46-175868271.jpg",
-      "titleSource" : "Liensberger holt nächste Medaille für Österreich bei Ski-WM",
-      "titleTarget" : "Liensberger يفوز بالميدالية التالية للنمسا في بطولة العالم للتزلج",
-      "url" : "https://kurier.at/sport/wintersport/liensberger-sorgt-fuer-naechste-medaille-fuer-oesterreich-bei-ski-wm/401192251"
+      "id" : "tzFDYpFV",
+      "imgUrl" : "https://image.kurier.at/images/original/4951601/46-175897779.jpg",
+      "titleSource" : "Schwarz sorgt mit RTL-Bronze für 300. WM-Medaille des ÖSV",
+      "titleTarget" : "بميدالية برونزية RTL ، فاز شوارتز بميدالية كأس العالم الـ 300 لـ ÖSV",
+      "url" : "https://kurier.at/sport/wintersport/ski-wm-bronze-fuer-marco-schwarz-im-riesentorlauf/401193610"
+    }, {
+      "id" : "OgAq9OtA",
+      "imgUrl" : "https://image.kurier.at/images/original/4950895/46-175891456.jpg",
+      "titleSource" : "Ski-WM live: So steht's in der Riesentorlauf-Entscheidung",
+      "titleTarget" : "كأس العالم للتزلج على الهواء مباشرة: هذا هو قرار التعرج العملاق",
+      "url" : "https://kurier.at/sport/wintersport/ski-wm-schwarz-halbzeit-sechster-im-riesentorlauf-feller-out/401193610"
     }, {
       "id" : "ZHiyW7mw",
       "imgUrl" : "https://image.kurier.at/images/original/4949173/46-175881100.jpg",
@@ -233,23 +250,17 @@
       "titleTarget" : "1: 4 في مباراة الذهاب: توتنهام ينهي حلم الوداد",
       "url" : "https://kurier.at/sport/fussball/14-niederlage-in-budapest-wac-verlor-europa-league-hinspiel-gegen-tottenham-hotspur/401193142"
     }, {
-      "id" : "WLOF3cwV",
-      "imgUrl" : "https://image.kurier.at/images/original/4948690/46-174133560.jpg",
-      "titleSource" : "Chaos-Rennen bei Ski-WM: Morddrohungen gegen FIS-Renndirektor",
-      "titleTarget" : "سباقات الفوضى في بطولة العالم للتزلج: تهديدات بالقتل ضد مدير سباق FIS",
-      "url" : "https://kurier.at/sport/wintersport/nach-chaos-rennen-bei-ski-wm-in-cortina-morddrohungen-gegen-fis-renndirektor-markus-waldner/401193322"
+      "id" : "uuY8pZNI",
+      "imgUrl" : "https://image.kurier.at/images/original/4950259/46-175891203.jpg",
+      "titleSource" : "Nach Medwedew-Sieg: Showdown der Seriensieger in Melbourne",
+      "titleTarget" : "بعد فوز ميدفيديف: مواجهة الفائزين في السلسلة في ملبورن",
+      "url" : "https://kurier.at/sport/tennis/nach-medwedew-sieg-showdown-der-seriensieger-in-melbourne/401194000"
     }, {
-      "id" : "iSKakPi4",
-      "imgUrl" : "https://image.kurier.at/images/original/4949485/46-175864492.jpg",
-      "titleSource" : "Enttäuschende Heim-WM in Cortina bisher für Italien",
-      "titleTarget" : "كأس العالم المخيب للآمال في كورتينا حتى الآن لإيطاليا",
-      "url" : "https://kurier.at/sport/wintersport/ski-wm-enttaeuschende-heim-wm-in-cortina-bisher-fuer-italien/401193622"
-    }, {
-      "id" : "f2MTOocI",
-      "imgUrl" : "https://image.kurier.at/images/original/4949341/46-175882463.jpg",
-      "titleSource" : "Salzburg wurden die Grenzen aufgezeigt: \"Es wird ganz schwer\"",
-      "titleTarget" : "أظهر سالزبورغ الحدود: \"سيكون صعبًا جدًا\"",
-      "url" : "https://kurier.at/sport/fussball/salzburg-wurden-von-villarreal-in-der-europa-league-die-grenzen-aufgezeigt-es-wird-ganz-schwer/401193526"
+      "id" : "EqXJV3vF",
+      "imgUrl" : "https://image.kurier.at/images/original/4950151/whatsapp_image_2021-02-19_at_10.02.07.jpeg",
+      "titleSource" : "Wie ORF-Kamerafahrer Joachim Puchner zu Sturz kam",
+      "titleTarget" : "كيف سقط سائق كاميرا ORF يواكيم بوشنر",
+      "url" : "https://kurier.at/sport/wintersport/ski-wm-in-cortina-dampezzo-wie-orf-kamerafahrer-joachim-puchner-zu-sturz-kam/401193943"
     } ]
   } ],
   "country" : "austria",
