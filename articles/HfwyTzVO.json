@@ -1,0 +1,17 @@
+{
+  "id" : "HfwyTzVO",
+  "url" : "https://kurier.at/wirtschaft/datenleck-tausende-testergebnisse-schlecht-geschuetzt-im-netz/401221908",
+  "category" : "ECONOMICS",
+  "publisher" : "kurier.at",
+  "publishedOn" : "2021-03-18T07:35:52Z[UTC]",
+  "author" : "Vanessa Gaigg, Nina Weißensteiner",
+  "imageUrl" : "https://image.kurier.at/images/original/4995576/46-175733900.jpg",
+  "imageCopyright" : "EPA/SOEREN STACHE / POOL",
+  "sourceCountry" : "austria",
+  "sourceLanguage" : "german",
+  "targetLanguage" : "arabic",
+  "articleTitle" : "Datenleck: Tausende Testergebnisse schlecht geschützt im Netz",
+  "articleTitleTranslated" : "تسرب البيانات: الآلاف من نتائج الاختبار محمية بشكل سيئ في الشبكة",
+  "articleContent" : [ "Schlecht geschützt standen laut einem Bericht des Standard die Testergebnisse von zahlreichen Testeinrichtungen in Deutschland und Österreicher im Netz. Eine österreichische FH und mehrere Corona-Testzentren in Berlin, München und Mannheim waren laut dem Bericht betroffen. ", "Das Datenleck entstand durch eine Software beim Wiener Start-up Medicus AI, das auch digitale Infrastruktur für Testungen anbietet. Durch die Lücke konnten Nutzer zumindest temporär sensible Datensätze, die für einen Corona-Test angegeben wurden, auslesen. ", "Der Standard beruft sich auf eine Analyse, die Sicherheitsforscher des deutschen IT-Kollektivs Zerforschung gemacht hat und auch der Süddeutschen Zeitung und dem Rundfunk Berlin-Brandenburg vorliegt.", "Laut dieser waren zum Zeitpunkt der Schließung des Datenlecks zumindest 136.000 Datensätze aus über 100 Testzentren auslesbar. Medicus AI wollte diese Zahl gegenüber der Zeitung nicht bestätigen und räumte lediglich 5.774 betroffene Ergebnisse ein.", "Offenbar war durch eine Änderung der eigenen Identifikationsnummer bei Abruf eines Tests möglich, Befunde anderer Nutzer aufzurufen - und damit Name, Adresse, Staatsbürgerschaft, Geburtsdatum, Handynummer, E-Mail und falls angegeben auch Nummer von Pass- oder Personalausweis einsehbar. " ],
+  "articleContentTranslated" : [ "وفقًا لتقرير صادر عن المعيار ، فإن نتائج الاختبار للعديد من مرافق الاختبار في ألمانيا والنمسا كانت محمية بشكل سيئ على الإنترنت. وبحسب التقرير ، تأثرت جامعة نمساوية للعلوم التطبيقية والعديد من مراكز اختبار كورونا في برلين وميونيخ ومانهايم.", "حدث تسرب البيانات بسبب برنامج في شركة Medicus AI الناشئة في فيينا ، والتي توفر أيضًا بنية تحتية رقمية للاختبار. مكنت الفجوة المستخدمين من قراءة مجموعات البيانات الحساسة التي تم تحديدها لاختبار الاكليل ، على الأقل مؤقتًا.", "يعتمد المعيار على تحليل أجراه باحثون أمنيون من مجموعة Zerforschung لتكنولوجيا المعلومات الألمانية ، والمتاحة أيضًا لـ Süddeutsche Zeitung وشركة البث في برلين-براندنبورغ.", "وفقًا لذلك ، كان ما لا يقل عن 136000 سجل بيانات من أكثر من 100 مركز اختبار قابلاً للقراءة في وقت إغلاق تسرب البيانات. لم ترغب شركة Medicus AI في تأكيد هذا الرقم للصحيفة واعترفت فقط بـ 5774 نتيجة متأثرة.", "من الواضح أنه من خلال تغيير رقم التعريف الشخصي عند استدعاء الاختبار ، كان من الممكن استدعاء نتائج المستخدمين الآخرين - وبالتالي الاسم والعنوان والجنسية وتاريخ الميلاد ورقم الهاتف المحمول والبريد الإلكتروني ، وإذا تم تحديده ، رقم جواز السفر أو بطاقة الهوية." ]
+}
